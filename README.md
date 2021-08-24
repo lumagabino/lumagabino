@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+	<h1>Olá, eu sou a Luma 👋</h1>
+</div>
+		
+<div>
+	<p>💻 Desenvolvedora iOS</p>  
+	<p>🌱 Estudante de Ciência da Computação na Unicamp</p>  
+</div>
 
-<!--
-**lumagabino/lumagabino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div><br>
+	<a href = "mailto:lumagabino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://medium.com/@lumagabino" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/luma-gabino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
-Here are some ideas to get you started:
+<div><br>
+  <a href="https://github.com/lumagabino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumagabino&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
