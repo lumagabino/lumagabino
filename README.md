@@ -4,7 +4,7 @@
 		
 <div>
 	<p>💻 Desenvolvedora iOS</p>  
-	<p>🌱 Estudante de Ciência da Computação na Unicamp</p>  
+	<p>🌱 Cientista da Computação pela Unicamp</p>  
 </div>
 
 <div><br>
